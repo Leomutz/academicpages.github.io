@@ -23,7 +23,6 @@ words_per_minute         : 160
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
   name             : "Leonard L. Mutembei"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
