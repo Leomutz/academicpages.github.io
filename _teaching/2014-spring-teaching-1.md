@@ -1,20 +1,14 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+My teaching activities for diploma and undergraduate students:
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Introduction to Computer Programming
+* Principles of Programming 
+* Principles of Software Development
+* Computer Mathematics
+* Network Security Implementation
+* Cyber Forensics
+* Network Security
+* Information Technologies Security
+* Selected Topics in IT Security
+* Operating Systems Security
+* Open Source Technologies
+* Routing and Switching 
