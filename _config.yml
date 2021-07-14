@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leonard L. Mutembei"
 title_separator          : "-"
 name                     : &name "Leonard L. Mutembei"
-description              : &description "Teach and Research at the department of Informatics, Institute of Accountancy Arusha"
+description              : &description "Teach and Research at the Institute of Accountancy Arusha, Department of Informatics"
 url                      : https://leomutz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leomutz/leomutz.github.io"
@@ -73,12 +73,11 @@ social:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
   name             : "Leonard L. Mutembei"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  bio              : "Teach and research at the department of informatics, Institute of Accountancy Arusha"
+  bio              : "Teach and research at the Institute of Accountancy Arusha, Department of informatics, "
   location         : "Arusha, Tanzania"
   employer         :
  
