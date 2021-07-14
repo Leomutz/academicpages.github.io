@@ -18,13 +18,13 @@ Work experience
 ======
 * 2007-2009: Technical Support Executive
   * Satcom Networks Africa Ltd., Tanzania
-  * Duties included: Network Monitoring, Troubleshooting, Installation and Configuration of routers and servers
+  * Duties included: Network Monitoring and Remote Support
 
 * 2009-2020: Assistant Lecturer
   * University of Dodoma, Tanzania
-  * Duties included: Teach, Research and Consult
+  * Duties included: Teaching, Research and Community Engagement
 
-* 2020- :Assistant Lecturer
+* 2020-To Date: Assistant Lecturer
   * Institute of Accountancy Arusha, Tanzania
-  * Duties: Teach, Research and Consult
+  * Duties: Teaching, Research and Community Engagement
 
