@@ -10,19 +10,21 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in GitHub, GitHub University, 2004-2007
-* MSc. In Network and Information Security, ESIEA, 2010-2011
+* BSc. In Computer Science, University of Dar Es Salaam, 2004-2007
+* MSc. In Network and Information Security, École Supérieure d'Informatique Électronique Automatique (ESIEA), 2010-2011
 * Msc. In Computer Science, University of Dodoma, 2009-2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2007-2009: Technical Support Executive
+  * Satcom Networks Africa Ltd., Tanzania
+  * Duties included: Network Monitoring, Troubleshooting, Installation and Configuration of routers and servers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2009-2020: Assistant Lecturer
+  * University of Dodoma, Tanzania
+  * Duties included: Teach, Research and Consult
+
+* 2020- :Assistant Lecturer
+  * Institute of Accountancy Arusha, Tanzania
+  * Duties: Teach, Research and Consult
 
