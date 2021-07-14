@@ -71,6 +71,40 @@ social:
   links: # An array of links to social media profiles
 
 
+# Site Author
+author:
+  name             : "Your Sidebar Name"
+  name             : "Leonard L. Mutembei"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  bio              : "Teach and research at the department of informatics, Institute of Accountancy Arusha"
+  location         : "Arusha, Tanzania"
+  employer         :
+ 
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "leomutz"
+ 
+ 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+    :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 
 
