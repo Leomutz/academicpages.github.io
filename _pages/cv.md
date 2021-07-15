@@ -20,10 +20,10 @@ Work Experience
   * Institute of Accountancy Arusha, Department of Informatics, Tanzania
 
 * 2011 - 2020: Assistant Lecturer
-  * University of Dodoma, College of Informatics and Virtual Education, Tanzania
+  * University of Dodoma, College of Informatics and Virtual Education, Department of Computer Science, Tanzania
 
 * 2009 - 2011: Teaching Asistant
-  * University of Dodoma, College of Informatics and Virtual Education, Tanzania
+  * University of Dodoma, College of Informatics and Virtual Education, Department of Computer Science, Tanzania
 
 * 2007 - 2009: Technical Support Executive
   * Satcom Networks Africa Ltd., Tanzania
