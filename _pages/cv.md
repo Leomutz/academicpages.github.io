@@ -14,17 +14,21 @@ Education
 * MSc. In Network and Information Security, École Supérieure d'Informatique Électronique Automatique (ESIEA), 2010-2011
 * Msc. In Computer Science, University of Dodoma, 2009-2012
 
-Work experience
+Academic Positions 
 ======
-* 2007-2009: Technical Support Executive
+* 2020 - present: Assistant Lecturer
+  * Institute of Accountancy Arusha, Department of Informatics, Tanzania
+
+* 2011 - 2020: Assistant Lecturer
+  * University of Dodoma, College of Informatics and Virtual Education, Tanzania
+
+* 2009 - 2011: Teaching Asistant
+  * University of Dodoma, College of Informatics and Virtual Education, Tanzania
+
+Technical Experience
+=====
+* 2007 - 2009: Technical Support Executive
   * Satcom Networks Africa Ltd., Tanzania
-  * Duties included: Network Monitoring and Remote Support
 
-* 2009-2020: Assistant Lecturer
-  * University of Dodoma, Tanzania
-  * Duties included: Teaching, Research and Community Engagement
 
-* 2020-To Date: Assistant Lecturer
-  * Institute of Accountancy Arusha, Tanzania
-  * Duties: Teaching, Research and Community Engagement
 
