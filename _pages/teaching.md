@@ -21,5 +21,6 @@ My teaching activities for diploma and undergraduate students:
 * Operating Systems Security
 * Open Source Technologies
 * Routing and Switching
+* Cyber Intelligence
 
 
