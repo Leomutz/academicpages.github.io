@@ -12,7 +12,7 @@ Education
 ======
 * Master of Science in Computer Science, University of Dodoma, 2009 - 2012
 * Specialized Master in Network and Information Security, École Supérieure d'Informatique Électronique Automatique (ESIEA), 2010 - 2011
-* BSc in Computer Science, University of Dar Es Salaam, 2004 - 2007
+* BSc in Computer Science, University of Dar es Salaam, 2004 - 2007
 
 Work Experience
 ======
