@@ -22,7 +22,7 @@ Work Experience
 * 2011 - 2020: Assistant Lecturer
   * University of Dodoma, College of Informatics and Virtual Education, Department of Computer Science, Tanzania
 
-* 2009 - 2011: Teaching Asistant
+* 2009 - 2011: Teaching Assistant
   * University of Dodoma, College of Informatics and Virtual Education, Department of Computer Science, Tanzania
 
 * 2007 - 2009: Technical Support Executive
