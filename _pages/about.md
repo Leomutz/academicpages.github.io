@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Leonard L. Mutembei, a Lecturer at the [Institute of Accountancy Arusha](https://www.iaa.ac.tz/) in the [Department of Informatics](https://informatics.iaa.ac.tz/). Before I was an Assistant Lecturer at the [University of Dodoma](https://www.udom.ac.tz/) in the Department of Computer Science,College of Informatics and Virtual Education for 10 years.
+I am Leonard L. Mutembei, an Assistant Lecturer at the [Institute of Accountancy Arusha](https://www.iaa.ac.tz/) in the [Department of Informatics](https://informatics.iaa.ac.tz/). I worked at the [University of Dodoma](https://www.udom.ac.tz/) in the Department of Computer Science,College of Informatics and Virtual Education (2009-2020).
 
 Research Interests
 ======
