@@ -84,7 +84,7 @@ author:
   avatar           : "Leonard_esiea.jpg"
   bio              : "Lecturer at IAA"
   location         : "Arusha, Tanzania"
-  employer         : 
+  employer         : https://www.iaa.ac.tz
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -106,7 +106,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"
