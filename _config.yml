@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Leonard L. Mutembei"
   avatar           : "profile.png"
-  bio              : "Lecturer at IAA https://www.iaa.ac.tz/"
+  bio              : "Lecturer at IAA"
   location         : "Arusha, Tanzania"
-  employer         :
+  employer         : "https://www.iaa.ac.tz/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
