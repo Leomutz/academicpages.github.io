@@ -84,7 +84,7 @@ author:
   avatar           : "Leonard_esiea.jpg"
   bio              : "Lecturer at IAA"
   location         : "Arusha, Tanzania"
-  employer         : "https://www.iaa.ac.tz"
+  employer         : https://www.iaa.ac.tz
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
